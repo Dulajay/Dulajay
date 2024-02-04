@@ -25,6 +25,6 @@ I'm on a continuous learning journey, staying updated with the latest advancemen
 
 🌐 **Connect With Me:**
 
-- LinkedIn: (www.linkedin.com/in/dulakshi-jayani)
+- LinkedIn: www.linkedin.com/in/dulakshi-jayani
 
 Let's code, learn, and innovate together! 🚀✨
