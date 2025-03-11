@@ -1,6 +1,6 @@
-# 🤖 Dulakshi Jayani (AI & Data Science Enthusiast)
+# 🤖 Dulakshi Jayani (Robotics & AI Developer)
 
-👋 Hey there! I'm Dulakshi Jayani, a passionate AI and Data Science enthusiast exploring the realms of artificial intelligence, machine learning, and data-driven insights. My journey into the world of technology is fueled by a curiosity to unravel patterns, solve complex problems, and contribute to the ever-evolving landscape of data science.
+👋 Hello! I'm Dulakshi Jayani, a developer working with electronics devices, microcontrollers, and IoT (Internet of Things). I also have a strong interest in AI, image processing, machine learning, and anomaly detection. I enjoy exploring and working on both hardware and software projects, solving problems, and building useful solutions to help improve technology.
 
 # 🛠️ Technologies & Tools:
 
@@ -11,6 +11,7 @@
 - Jupyter Notebooks 📓
 - SQL Databases 🗃️
 - Data Visualization 📊
+- IoT (Internet of Things)
 ...and more, as the journey of exploration and learning never ends!
   
 # 🌐 Connect With Me:
